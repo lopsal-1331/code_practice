@@ -4,3 +4,4 @@ Code challenges and practical exercises to deepen understanding of topics such a
 * Simple example illustrating the computation of a Jacobian matrix.
 * Procedure to simulate measurements within a bounded square area, incorporating clutter and noise.
 * Implementation of a nearest-neighbor data association algorithm.
+* Build cost matrix for the Hungarian algorithm
