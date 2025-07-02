@@ -6,3 +6,4 @@ Code challenges and practical exercises to deepen understanding of topics such a
 * Implementation of a nearest-neighbor data association algorithm.
 * Build cost matrix for the Hungarian algorithm
 * Hungarian Algorithm implementation using numpy.
+* Simple example of PSD.
